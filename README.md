@@ -1,3 +1,3 @@
 # demo-1stRepository
 this is my first git repsitory
-author = lakshya bollina
+Author = Lakshya Bollina
